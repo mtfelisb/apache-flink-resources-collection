@@ -7,13 +7,13 @@
 
 Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. Flink has been designed to run in all common cluster environments, perform computations at in-memory speed and at any scale.
 
-## Contents
+## Contents 
 
 - [Videos](#videos)
 - [Books](#books)
 - [Articles](#articles)
 
-## Videos
+## Videos 📽️
 
 Here you'll find a selection of videos ranging from beginner tutorials to advanced usage and case studies.
 
@@ -33,7 +33,7 @@ Here you'll find a selection of videos ranging from beginner tutorials to advanc
    - Description: TODO
    - Duration: TODO
 
-## Books
+## Books 📚
 
 Below is a list of comprehensive books that cover both foundational concepts and advanced topics in Apache Flink.
 
@@ -41,7 +41,7 @@ Below is a list of comprehensive books that cover both foundational concepts and
    - Description: Guides you through the complexities of working with stream processing applications using Apache Flink.
    - Available: [Purchase here](https://www.amazon.com/Stream-Processing-Apache-Flink-Implementation-ebook/dp/B07QM3DSB7)
 
-## Articles
+## Articles 📄
 
 A selection of articles that provide insights into real-world implementations, performance optimizations, and tips for using Apache Flink effectively.
 
